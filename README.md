@@ -69,3 +69,5 @@ Streamlit – Web application framework for deployment.
 Output
 When a user enters a review into the application, the system processes it, applies the trained model, and predicts whether the sentiment is 😊 Positive or 😞 Negative, giving instant results in a clean, user-friendly interface.
 
+#streamlit output
+<img width="1908" height="918" alt="Image" src="https://github.com/user-attachments/assets/54f0b61d-5630-4e06-b933-836509ac907f" />
