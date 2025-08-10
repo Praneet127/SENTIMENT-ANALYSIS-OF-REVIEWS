@@ -42,23 +42,6 @@ The dataset is split into training and testing sets to measure accuracy and perf
 Deployment with Streamlit
 A web interface is created using Streamlit, allowing users to type a review and instantly see whether it is classified as positive or negative.
 
-How to Run the Project
-Clone the repository:
-
-git clone https://github.com/yourusername/food-review-sentiment-analysis.git
-cd food-review-sentiment-analysis
-
-Install the required packages:
-
-
-pip install -r requirements.txt
-
-Run the Streamlit application:
-
-
-streamlit run app.py
-Open the displayed local URL in your browser to use the app.
-
 Technologies Used
 Python – Main programming language.
 Pandas & NumPy – Data handling and numerical computations.
